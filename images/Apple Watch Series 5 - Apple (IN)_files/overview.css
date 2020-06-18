@@ -1,0 +1,3455 @@
+/* fixes */
+.section-always-on {
+  margin-bottom: 0;
+}
+
+.section-apps-and-more .s5-overview-copy-apple-pay .s5-overview-copy-headline {
+  width: 270px;
+}
+
+/* screens */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__8xye5kjzdzma_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__8xye5kjzdzma_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__8xye5kjzdzma_small_2x.jpg");
+  }
+}
+
+html.static-fallback .section-compass .compass .static-frame,
+html.aow .section-compass .compass .static-frame,
+html.no-js .section-compass .compass .static-frame,
+html.prefers-reduced-motion .section-compass .compass .static-frame,
+html.static-fallback .section-compass .compass .static-frame,
+html.aow .section-compass .compass .static-frame,
+html.no-js .section-compass .compass .static-frame,
+html.prefers-reduced-motion .section-compass .compass .static-frame,
+html.static-fallback .section-compass .compass .static-frame,
+html.aow .section-compass .compass .static-frame,
+html.no-js .section-compass .compass .static-frame,
+html.prefers-reduced-motion .section-compass .compass .static-frame,
+html.static-fallback .section-compass .compass .static-frame,
+html.aow .section-compass .compass .static-frame,
+html.no-js .section-compass .compass .static-frame,
+html.prefers-reduced-motion .section-compass .compass .static-frame {
+  background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame,
+  html.static-fallback .section-compass .compass .static-frame,
+  html.aow .section-compass .compass .static-frame,
+  html.no-js .section-compass .compass .static-frame,
+  html.prefers-reduced-motion .section-compass .compass .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_fitness_workouts_swimming_swimming-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more
+    .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more
+    .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_app-store_app-store-landing-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_app-store_app-store-landing-end-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_fitness_elevation_elevation-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/elevation/elevation-workout__eq0c5u4bp9ea_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_elevation_elevation-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/elevation/elevation-workout__eq0c5u4bp9ea_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_fitness_elevation_elevation-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/elevation/elevation-workout__eq0c5u4bp9ea_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_elevation_elevation-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/elevation/elevation-workout__eq0c5u4bp9ea_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_fitness_elevation_elevation-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/elevation/elevation-workout__eq0c5u4bp9ea_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_elevation_elevation-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/elevation/elevation-workout__eq0c5u4bp9ea_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more
+  .watchos_fitness_rolling-pace_behind-pace-notification {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/rolling-pace/behind-pace-notification__dazyo9wdh3ki_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_rolling-pace_behind-pace-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/rolling-pace/behind-pace-notification__dazyo9wdh3ki_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more
+    .watchos_fitness_rolling-pace_behind-pace-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/rolling-pace/behind-pace-notification__dazyo9wdh3ki_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_rolling-pace_behind-pace-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/rolling-pace/behind-pace-notification__dazyo9wdh3ki_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more
+    .watchos_fitness_rolling-pace_behind-pace-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/rolling-pace/behind-pace-notification__dazyo9wdh3ki_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_rolling-pace_behind-pace-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/rolling-pace/behind-pace-notification__dazyo9wdh3ki_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more
+  .watchos_fitness_activity-competitions_competitions-summary {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competitions-summary__ff6vtls0yjee_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competitions-summary {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competitions-summary__ff6vtls0yjee_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competitions-summary {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competitions-summary__ff6vtls0yjee_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competitions-summary {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competitions-summary__ff6vtls0yjee_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competitions-summary {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competitions-summary__ff6vtls0yjee_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competitions-summary {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competitions-summary__ff6vtls0yjee_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more
+  .watchos_fitness_activity-sharing_activity-sharing-list {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-sharing/activity-sharing-list__cursnx3rwtoy_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-sharing_activity-sharing-list {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-sharing/activity-sharing-list__cursnx3rwtoy_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-sharing_activity-sharing-list {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-sharing/activity-sharing-list__cursnx3rwtoy_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-sharing_activity-sharing-list {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-sharing/activity-sharing-list__cursnx3rwtoy_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-sharing_activity-sharing-list {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-sharing/activity-sharing-list__cursnx3rwtoy_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-sharing_activity-sharing-list {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-sharing/activity-sharing-list__cursnx3rwtoy_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_watch-faces_activity-watch-face {
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/activity-watch-face__tx83jewx21uu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_watch-faces_activity-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/activity-watch-face__tx83jewx21uu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_watch-faces_activity-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/activity-watch-face__tx83jewx21uu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_watch-faces_activity-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/activity-watch-face__tx83jewx21uu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_watch-faces_activity-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/activity-watch-face__tx83jewx21uu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_watch-faces_activity-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/activity-watch-face__tx83jewx21uu_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more
+  .watchos_fitness_activity-competitions_competition-update-notification {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competition-update-notification__en7v5lcvzi82_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competition-update-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competition-update-notification__en7v5lcvzi82_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competition-update-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competition-update-notification__en7v5lcvzi82_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competition-update-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competition-update-notification__en7v5lcvzi82_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competition-update-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competition-update-notification__en7v5lcvzi82_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more
+    .watchos_fitness_activity-competitions_competition-update-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/activity-competitions/competition-update-notification__en7v5lcvzi82_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_apps_music_album-art-drastic-measures {
+  width: 148px;
+  height: 180px;
+  background-size: 148px 180px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/podcasts/podcast-sporkful__bbdz3gde0os2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_music_album-art-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/podcasts/podcast-sporkful__bbdz3gde0os2_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_apps_music_album-art-drastic-measures {
+    width: 136px;
+    height: 166px;
+    background-size: 136px 166px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/podcasts/podcast-sporkful__bbdz3gde0os2_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_music_album-art-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/podcasts/podcast-sporkful__bbdz3gde0os2_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_apps_music_album-art-drastic-measures {
+    width: 102px;
+    height: 124px;
+    background-size: 102px 124px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/podcasts/podcast-sporkful__bbdz3gde0os2_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_music_album-art-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/podcasts/podcast-sporkful__bbdz3gde0os2_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_apps_music_music-controls {
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls__gh90qd5srfmi_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_music_music-controls {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls__gh90qd5srfmi_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_apps_music_music-controls {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls__gh90qd5srfmi_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_music_music-controls {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls__gh90qd5srfmi_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_apps_music_music-controls {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls__gh90qd5srfmi_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_music_music-controls {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls__gh90qd5srfmi_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_apps_audiobooks_audiobook-normal-people {
+  width: 148px;
+  height: 180px;
+  background-size: 148px 180px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/audiobooks/audiobook-normal-people__d8l89fdfagmu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_audiobooks_audiobook-normal-people {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/audiobooks/audiobook-normal-people__d8l89fdfagmu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_apps_audiobooks_audiobook-normal-people {
+    width: 136px;
+    height: 166px;
+    background-size: 136px 166px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/audiobooks/audiobook-normal-people__d8l89fdfagmu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_audiobooks_audiobook-normal-people {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/audiobooks/audiobook-normal-people__d8l89fdfagmu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_apps_audiobooks_audiobook-normal-people {
+    width: 102px;
+    height: 124px;
+    background-size: 102px 124px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/audiobooks/audiobook-normal-people__d8l89fdfagmu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_audiobooks_audiobook-normal-people {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/audiobooks/audiobook-normal-people__d8l89fdfagmu_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_apps_podcasts_podcast-sporkful {
+  width: 148px;
+  height: 180px;
+  background-size: 148px 180px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/album-art-drastic-measures__di5y174ci54y_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_podcasts_podcast-sporkful {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/album-art-drastic-measures__di5y174ci54y_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_apps_podcasts_podcast-sporkful {
+    width: 136px;
+    height: 166px;
+    background-size: 136px 166px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/album-art-drastic-measures__di5y174ci54y_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_podcasts_podcast-sporkful {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/album-art-drastic-measures__di5y174ci54y_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_apps_podcasts_podcast-sporkful {
+    width: 102px;
+    height: 124px;
+    background-size: 102px 124px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/album-art-drastic-measures__di5y174ci54y_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_apps_podcasts_podcast-sporkful {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/album-art-drastic-measures__di5y174ci54y_small_2x.jpg");
+  }
+}
+
+.section-materials .design_ceramic_materials {
+  background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-materials .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-materials .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-materials .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-materials .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-materials .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_small_2x.jpg");
+  }
+}
+
+.section-health .design_ceramic_materials {
+  background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-health .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-health .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-health .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-health .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-health .design_ceramic_materials {
+    background-image: url("/in/apple-watch-series-5/images/design/ceramic/materials__dcwmqdwam1aq_small_2x.jpg");
+  }
+}
+
+.section-health .watchos_fitness_connected-gym_gymkit-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-health .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-health .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-health .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-health .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-health .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_fitness_connected-gym_gymkit-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_fitness_workouts_swimming_swimming-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_app-store_app-store-landing-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_app-store_app-store-landing-end-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_app-store_app-store-landing-front-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more
+    .watchos_app-store_app-store-landing-front-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more
+    .watchos_app-store_app-store-landing-front-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more
+    .watchos_app-store_app-store-landing-front-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more
+    .watchos_app-store_app-store-landing-front-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more
+    .watchos_app-store_app-store-landing-front-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_app-store_app-store-landing-front-end-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-front-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-front-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-front-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-front-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_app-store_app-store-landing-front-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_apps_fitness-third-party_iredpoint {
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/iredpoint__bexkosxuye2q_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_iredpoint {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/iredpoint__bexkosxuye2q_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_iredpoint {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/iredpoint__bexkosxuye2q_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_iredpoint {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/iredpoint__bexkosxuye2q_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_iredpoint {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/iredpoint__bexkosxuye2q_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_iredpoint {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/iredpoint__bexkosxuye2q_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_apps_fitness-third-party_nrc_nrc-run {
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/nrc/nrc-run__3atnw2fh4n62_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_nrc_nrc-run {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/nrc/nrc-run__3atnw2fh4n62_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_nrc_nrc-run {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/nrc/nrc-run__3atnw2fh4n62_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_nrc_nrc-run {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/nrc/nrc-run__3atnw2fh4n62_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_nrc_nrc-run {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/nrc/nrc-run__3atnw2fh4n62_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_fitness-third-party_nrc_nrc-run {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/fitness-third-party/nrc/nrc-run__3atnw2fh4n62_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_apps_mlb-at-bat {
+  width: 148px;
+  height: 180px;
+  background-size: 148px 180px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/mlb-at-bat__e2ryzsv5zsmu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_mlb-at-bat {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/mlb-at-bat__e2ryzsv5zsmu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_apps_mlb-at-bat {
+    width: 136px;
+    height: 166px;
+    background-size: 136px 166px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/mlb-at-bat__e2ryzsv5zsmu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_mlb-at-bat {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/mlb-at-bat__e2ryzsv5zsmu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_apps_mlb-at-bat {
+    width: 102px;
+    height: 124px;
+    background-size: 102px 124px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/mlb-at-bat__e2ryzsv5zsmu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_mlb-at-bat {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/mlb-at-bat__e2ryzsv5zsmu_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_messages_message-notification {
+  background-image: url("/in/apple-watch-series-5/images/watchos/messages/message-notification__cxc6al88hbki_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_messages_message-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/message-notification__cxc6al88hbki_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_messages_message-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/message-notification__cxc6al88hbki_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_messages_message-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/message-notification__cxc6al88hbki_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_messages_message-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/message-notification__cxc6al88hbki_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_messages_message-notification {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/message-notification__cxc6al88hbki_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_phone_incoming-call {
+  background-image: url("/in/apple-watch-series-5/images/watchos/phone/incoming-call__chhnfp3kpxsi_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_phone_incoming-call {
+    background-image: url("/in/apple-watch-series-5/images/watchos/phone/incoming-call__chhnfp3kpxsi_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_phone_incoming-call {
+    background-image: url("/in/apple-watch-series-5/images/watchos/phone/incoming-call__chhnfp3kpxsi_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_phone_incoming-call {
+    background-image: url("/in/apple-watch-series-5/images/watchos/phone/incoming-call__chhnfp3kpxsi_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_phone_incoming-call {
+    background-image: url("/in/apple-watch-series-5/images/watchos/phone/incoming-call__chhnfp3kpxsi_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_phone_incoming-call {
+    background-image: url("/in/apple-watch-series-5/images/watchos/phone/incoming-call__chhnfp3kpxsi_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_messages_messages-thread {
+  background-image: url("/in/apple-watch-series-5/images/watchos/messages/messages-thread__fpoiyaerzx6y_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_messages_messages-thread {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/messages-thread__fpoiyaerzx6y_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_messages_messages-thread {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/messages-thread__fpoiyaerzx6y_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_messages_messages-thread {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/messages-thread__fpoiyaerzx6y_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_messages_messages-thread {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/messages-thread__fpoiyaerzx6y_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_messages_messages-thread {
+    background-image: url("/in/apple-watch-series-5/images/watchos/messages/messages-thread__fpoiyaerzx6y_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_apps_music_music-controls-drastic-measures {
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls-drastic-measures__fs3wsorgptqy_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_music_music-controls-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls-drastic-measures__fs3wsorgptqy_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_apps_music_music-controls-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls-drastic-measures__fs3wsorgptqy_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_music_music-controls-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls-drastic-measures__fs3wsorgptqy_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_apps_music_music-controls-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls-drastic-measures__fs3wsorgptqy_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apps_music_music-controls-drastic-measures {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/music/music-controls-drastic-measures__fs3wsorgptqy_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_siri_siri-prompt {
+  background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-prompt__kbuj81gu6mye_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_siri-prompt {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-prompt__kbuj81gu6mye_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_siri_siri-prompt {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-prompt__kbuj81gu6mye_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_siri-prompt {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-prompt__kbuj81gu6mye_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_siri_siri-prompt {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-prompt__kbuj81gu6mye_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_siri-prompt {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-prompt__kbuj81gu6mye_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_siri_song-detection_talk-khalid-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_startframe__fqtktc3dvgi2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_startframe__fqtktc3dvgi2_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_startframe__fqtktc3dvgi2_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_startframe__fqtktc3dvgi2_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_startframe__fqtktc3dvgi2_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_startframe__fqtktc3dvgi2_small_2x.jpg");
+  }
+}
+
+html.static-fallback
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.aow
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.no-js
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.prefers-reduced-motion
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.static-fallback
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.aow
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.no-js
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.prefers-reduced-motion
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.static-fallback
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.aow
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.no-js
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.prefers-reduced-motion
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.static-fallback
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.aow
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.no-js
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame,
+html.prefers-reduced-motion
+  .section-apps-and-more
+  .watchos_siri_song-detection_talk-khalid-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.static-fallback
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.aow
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.no-js
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame,
+  html.prefers-reduced-motion
+    .section-apps-and-more
+    .watchos_siri_song-detection_talk-khalid-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_siri_song-detection_talk-khalid-end-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_song-detection_talk-khalid-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/song-detection/talk-khalid_endframe__dw2xoyiak6qa_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_siri_siri-watch-face {
+  background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-watch-face__gkdqp0hb1fyq_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_siri-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-watch-face__gkdqp0hb1fyq_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_siri_siri-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-watch-face__gkdqp0hb1fyq_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_siri-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-watch-face__gkdqp0hb1fyq_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_siri_siri-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-watch-face__gkdqp0hb1fyq_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_siri_siri-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/siri/siri-watch-face__gkdqp0hb1fyq_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_fitness_connected-gym_gymkit-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_fitness_workouts_swimming_swimming-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_fitness_workouts_swimming_swimming-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/workouts/swimming/swimming-workout__eg7yfno3zi2q_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_app-store_app-store-landing-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_app-store_app-store-landing-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_startframe__dhj7955rj5iu_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_app-store_app-store-landing-end-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_app-store_app-store-landing-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/app-store/app-store-landing-front_endframe__expq4sobbk02_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_watch-faces_numeral-ten-watch-face {
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-ten-watch-face__glu1lazvjviy_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_numeral-ten-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-ten-watch-face__glu1lazvjviy_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_watch-faces_numeral-ten-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-ten-watch-face__glu1lazvjviy_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_numeral-ten-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-ten-watch-face__glu1lazvjviy_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_watch-faces_numeral-ten-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-ten-watch-face__glu1lazvjviy_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_numeral-ten-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-ten-watch-face__glu1lazvjviy_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_watch-faces_nike-nrc-watch-face {
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/nike-nrc-watch-face__bbfe22urmh4i_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_nike-nrc-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/nike-nrc-watch-face__bbfe22urmh4i_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_watch-faces_nike-nrc-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/nike-nrc-watch-face__bbfe22urmh4i_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_nike-nrc-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/nike-nrc-watch-face__bbfe22urmh4i_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_watch-faces_nike-nrc-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/nike-nrc-watch-face__bbfe22urmh4i_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_nike-nrc-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/nike-nrc-watch-face__bbfe22urmh4i_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_watch-faces_meridian-watch-face {
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/meridian-watch-face__bf0ww9h9syxe_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_meridian-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/meridian-watch-face__bf0ww9h9syxe_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_watch-faces_meridian-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/meridian-watch-face__bf0ww9h9syxe_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_meridian-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/meridian-watch-face__bf0ww9h9syxe_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_watch-faces_meridian-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/meridian-watch-face__bf0ww9h9syxe_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_meridian-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/meridian-watch-face__bf0ww9h9syxe_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_watch-faces_numeral-x-watch-face {
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-x-watch-face__f7wt3dc6jgmm_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_numeral-x-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-x-watch-face__f7wt3dc6jgmm_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_watch-faces_numeral-x-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-x-watch-face__f7wt3dc6jgmm_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_numeral-x-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-x-watch-face__f7wt3dc6jgmm_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_watch-faces_numeral-x-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-x-watch-face__f7wt3dc6jgmm_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_numeral-x-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/numeral-x-watch-face__f7wt3dc6jgmm_small_2x.jpg");
+  }
+}
+
+.section-tells-time .watchos_watch-faces_infograph-watch-face {
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/infograph-watch-face__c1l4hupchuwm_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_infograph-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/infograph-watch-face__c1l4hupchuwm_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-tells-time .watchos_watch-faces_infograph-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/infograph-watch-face__c1l4hupchuwm_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_infograph-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/infograph-watch-face__c1l4hupchuwm_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-tells-time .watchos_watch-faces_infograph-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/infograph-watch-face__c1l4hupchuwm_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-tells-time .watchos_watch-faces_infograph-watch-face {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/infograph-watch-face__c1l4hupchuwm_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more
+  .watchos_apple-pay_peer-to-peer_apple-pay-messages-payment {
+  background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/peer-to-peer/apple-pay-messages-payment__gdt3hk02dqem_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more
+    .watchos_apple-pay_peer-to-peer_apple-pay-messages-payment {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/peer-to-peer/apple-pay-messages-payment__gdt3hk02dqem_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more
+    .watchos_apple-pay_peer-to-peer_apple-pay-messages-payment {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/peer-to-peer/apple-pay-messages-payment__gdt3hk02dqem_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more
+    .watchos_apple-pay_peer-to-peer_apple-pay-messages-payment {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/peer-to-peer/apple-pay-messages-payment__gdt3hk02dqem_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more
+    .watchos_apple-pay_peer-to-peer_apple-pay-messages-payment {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/peer-to-peer/apple-pay-messages-payment__gdt3hk02dqem_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more
+    .watchos_apple-pay_peer-to-peer_apple-pay-messages-payment {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/peer-to-peer/apple-pay-messages-payment__gdt3hk02dqem_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .watchos_apple-pay_cash_apple-pay-cash-ready {
+  background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/cash/apple-pay-cash-ready__epe10htqriye_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apple-pay_cash_apple-pay-cash-ready {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/cash/apple-pay-cash-ready__epe10htqriye_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .watchos_apple-pay_cash_apple-pay-cash-ready {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/cash/apple-pay-cash-ready__epe10htqriye_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apple-pay_cash_apple-pay-cash-ready {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/cash/apple-pay-cash-ready__epe10htqriye_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .watchos_apple-pay_cash_apple-pay-cash-ready {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/cash/apple-pay-cash-ready__epe10htqriye_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .watchos_apple-pay_cash_apple-pay-cash-ready {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apple-pay/cash/apple-pay-cash-ready__epe10htqriye_small_2x.jpg");
+  }
+}
+
+.section-apps-and-more .services_apple-card_apple-card-payment {
+  background-image: url("/in/apple-watch-series-5/images/services/apple-card/apple-card-payment__b35hgr5rhpiq_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-apps-and-more .services_apple-card_apple-card-payment {
+    background-image: url("/in/apple-watch-series-5/images/services/apple-card/apple-card-payment__b35hgr5rhpiq_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-apps-and-more .services_apple-card_apple-card-payment {
+    background-image: url("/in/apple-watch-series-5/images/services/apple-card/apple-card-payment__b35hgr5rhpiq_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .services_apple-card_apple-card-payment {
+    background-image: url("/in/apple-watch-series-5/images/services/apple-card/apple-card-payment__b35hgr5rhpiq_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-apps-and-more .services_apple-card_apple-card-payment {
+    background-image: url("/in/apple-watch-series-5/images/services/apple-card/apple-card-payment__b35hgr5rhpiq_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-apps-and-more .services_apple-card_apple-card-payment {
+    background-image: url("/in/apple-watch-series-5/images/services/apple-card/apple-card-payment__b35hgr5rhpiq_small_2x.jpg");
+  }
+}
+
+.section-health .watchos_apps_health_ecg_ecg-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/eye_startframe__fuoy48ajevue_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-health .watchos_apps_health_ecg_ecg-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/eye_startframe__fuoy48ajevue_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-health .watchos_apps_health_ecg_ecg-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/eye_startframe__fuoy48ajevue_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-health .watchos_apps_health_ecg_ecg-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/eye_startframe__fuoy48ajevue_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-health .watchos_apps_health_ecg_ecg-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/eye_startframe__fuoy48ajevue_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-health .watchos_apps_health_ecg_ecg-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/eye_startframe__fuoy48ajevue_small_2x.jpg");
+  }
+}
+
+.section-compass .compass .start-frame {
+  background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_startframe__e23d88xk2iwm_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-compass .compass .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_startframe__e23d88xk2iwm_large_2x.jpg");
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-compass .compass .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_startframe__e23d88xk2iwm_medium.jpg");
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-compass .compass .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_startframe__e23d88xk2iwm_medium_2x.jpg");
+  }
+}
+@media only screen and (max-width: 735px) {
+  .section-compass .compass .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_startframe__e23d88xk2iwm_small.jpg");
+  }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-compass .compass .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_startframe__e23d88xk2iwm_small_2x.jpg");
+  }
+}
+.section-compass .compass .end-frame {
+  background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-compass .compass .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_large_2x.jpg");
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .section-compass .compass .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_medium.jpg");
+  }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-compass .compass .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_medium_2x.jpg");
+  }
+}
+@media only screen and (max-width: 735px) {
+  .section-compass .compass .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_small.jpg");
+  }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-compass .compass .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/technology/compass/compass_endframe__6fm3q4x33ya2_small_2x.jpg");
+  }
+}
+
+.section-health
+  .watchos_health_cycle-tracking_cycle-tracking-screen-start-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_startframe__e5gremc1jrcm_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_startframe__e5gremc1jrcm_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_startframe__e5gremc1jrcm_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_startframe__e5gremc1jrcm_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_startframe__e5gremc1jrcm_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_startframe__e5gremc1jrcm_small_2x.jpg");
+  }
+}
+
+.section-health .watchos_health_cycle-tracking_cycle-tracking-screen-end-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_endframe__etqhv9kvwwia_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_endframe__etqhv9kvwwia_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_endframe__etqhv9kvwwia_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_endframe__etqhv9kvwwia_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_endframe__etqhv9kvwwia_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-health
+    .watchos_health_cycle-tracking_cycle-tracking-screen-end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/health/cycle-tracking/cycle-tracking-screen_endframe__etqhv9kvwwia_small_2x.jpg");
+  }
+}
+
+.section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+  background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-fitness-and-more .watchos_fitness_connected-gym_gymkit-workout {
+    background-image: url("/in/apple-watch-series-5/images/watchos/fitness/connected-gym/gymkit-workout__bmw2h0iu2m3m_small_2x.jpg");
+  }
+}
+
+.section-always-on .always-on .start-frame {
+  width: 800px;
+  height: 850px;
+  background-size: 800px 850px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_startframe__dgfaxdum6fiq_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-always-on .always-on .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_startframe__dgfaxdum6fiq_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-always-on .always-on .start-frame {
+    width: 600px;
+    height: 650px;
+    background-size: 600px 650px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_startframe__dgfaxdum6fiq_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-always-on .always-on .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_startframe__dgfaxdum6fiq_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-always-on .always-on .start-frame {
+    width: 326px;
+    height: 364px;
+    background-size: 326px 364px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_startframe__dgfaxdum6fiq_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-always-on .always-on .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_startframe__dgfaxdum6fiq_small_2x.jpg");
+  }
+}
+
+.section-always-on .always-on .end-frame {
+  visibility: hidden;
+  width: 800px;
+  height: 850px;
+  background-size: 800px 850px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_endframe__ew0w8ff4fbe6_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-always-on .always-on .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_endframe__ew0w8ff4fbe6_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-always-on .always-on .end-frame {
+    width: 600px;
+    height: 650px;
+    background-size: 600px 650px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_endframe__ew0w8ff4fbe6_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-always-on .always-on .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_endframe__ew0w8ff4fbe6_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-always-on .always-on .end-frame {
+    width: 326px;
+    height: 364px;
+    background-size: 326px 364px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_endframe__ew0w8ff4fbe6_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-always-on .always-on .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on_endframe__ew0w8ff4fbe6_small_2x.jpg");
+  }
+}
+
+.section-customize .cto-band-switch .start-frame {
+  width: 1452px;
+  height: 1100px;
+  background-size: 1452px 1100px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_startframe__bjj6vtk60gk2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-customize .cto-band-switch .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_startframe__bjj6vtk60gk2_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-customize .cto-band-switch .start-frame {
+    width: 960px;
+    height: 706px;
+    background-size: 960px 706px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_startframe__bjj6vtk60gk2_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-customize .cto-band-switch .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_startframe__bjj6vtk60gk2_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-customize .cto-band-switch .start-frame {
+    width: 526px;
+    height: 384px;
+    background-size: 526px 384px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_startframe__bjj6vtk60gk2_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-customize .cto-band-switch .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_startframe__bjj6vtk60gk2_small_2x.jpg");
+  }
+}
+
+.section-customize .cto-band-switch .end-frame {
+  visibility: hidden;
+  width: 1452px;
+  height: 1100px;
+  background-size: 1452px 1100px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-customize .cto-band-switch .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-customize .cto-band-switch .end-frame {
+    width: 960px;
+    height: 706px;
+    background-size: 960px 706px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-customize .cto-band-switch .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-customize .cto-band-switch .end-frame {
+    width: 526px;
+    height: 384px;
+    background-size: 526px 384px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-customize .cto-band-switch .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_small_2x.jpg");
+  }
+}
+
+html.static-fallback .section-customize .cto-band-switch .static-frame,
+html.aow .section-customize .cto-band-switch .static-frame,
+html.no-js .section-customize .cto-band-switch .static-frame,
+html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+html.static-fallback .section-customize .cto-band-switch .static-frame,
+html.aow .section-customize .cto-band-switch .static-frame,
+html.no-js .section-customize .cto-band-switch .static-frame,
+html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+html.static-fallback .section-customize .cto-band-switch .static-frame,
+html.aow .section-customize .cto-band-switch .static-frame,
+html.no-js .section-customize .cto-band-switch .static-frame,
+html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+html.static-fallback .section-customize .cto-band-switch .static-frame,
+html.aow .section-customize .cto-band-switch .static-frame,
+html.no-js .section-customize .cto-band-switch .static-frame,
+html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame {
+  background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion
+    .section-customize
+    .cto-band-switch
+    .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion
+    .section-customize
+    .cto-band-switch
+    .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion
+    .section-customize
+    .cto-band-switch
+    .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion
+    .section-customize
+    .cto-band-switch
+    .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion .section-customize .cto-band-switch .static-frame,
+  html.static-fallback .section-customize .cto-band-switch .static-frame,
+  html.aow .section-customize .cto-band-switch .static-frame,
+  html.no-js .section-customize .cto-band-switch .static-frame,
+  html.prefers-reduced-motion
+    .section-customize
+    .cto-band-switch
+    .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/watchos/watch-faces/cto_band-switch_endframe__7bhouwkc3fmi_small_2x.jpg");
+  }
+}
+
+.section-hero .always-on-hero .start-frame {
+  background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_startframe__daodxajg0e4i_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-hero .always-on-hero .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_startframe__daodxajg0e4i_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-hero .always-on-hero .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_startframe__daodxajg0e4i_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-hero .always-on-hero .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_startframe__daodxajg0e4i_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-hero .always-on-hero .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_startframe__daodxajg0e4i_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-hero .always-on-hero .start-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_startframe__daodxajg0e4i_small_2x.jpg");
+  }
+}
+
+.section-hero .always-on-hero .end-frame {
+  background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-hero .always-on-hero .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-hero .always-on-hero .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-hero .always-on-hero .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-hero .always-on-hero .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-hero .always-on-hero .end-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_small_2x.jpg");
+  }
+}
+
+html.static-fallback .section-hero .always-on-hero .static-frame,
+html.aow .section-hero .always-on-hero .static-frame,
+html.no-js .section-hero .always-on-hero .static-frame,
+html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+html.static-fallback .section-hero .always-on-hero .static-frame,
+html.aow .section-hero .always-on-hero .static-frame,
+html.no-js .section-hero .always-on-hero .static-frame,
+html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+html.static-fallback .section-hero .always-on-hero .static-frame,
+html.aow .section-hero .always-on-hero .static-frame,
+html.no-js .section-hero .always-on-hero .static-frame,
+html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+html.static-fallback .section-hero .always-on-hero .static-frame,
+html.aow .section-hero .always-on-hero .static-frame,
+html.no-js .section-hero .always-on-hero .static-frame,
+html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+  background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame,
+  html.static-fallback .section-hero .always-on-hero .static-frame,
+  html.aow .section-hero .always-on-hero .static-frame,
+  html.no-js .section-hero .always-on-hero .static-frame,
+  html.prefers-reduced-motion .section-hero .always-on-hero .static-frame {
+    background-image: url("/in/apple-watch-series-5/images/design/display/always-on/always-on-hero_endframe__ewsxhcpdp1iu_small_2x.jpg");
+  }
+}
+
+.page-overview
+  .section-compare.series-5
+  .compare-flex-two-up.series-5
+  .s5-compare-item-series-5
+  .compare-item-image {
+  width: 432px;
+  height: 520px;
+  background-size: 432px 520px;
+  background-repeat: no-repeat;
+  background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-overview
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-overview
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    width: 314px;
+    height: 380px;
+    background-size: 314px 380px;
+    background-repeat: no-repeat;
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-overview
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-overview
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-3-series-5
+    .compare-item-image {
+    padding-bottom: 75%;
+    background-repeat: no-repeat;
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5s3__ciavckprsno2_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-overview
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-3-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5s3__ciavckprsno2_small_2x.jpg");
+  }
+}
+
+.section-health .watchos_apps_health_ecg_ecg_heart-rate {
+  width: 148px;
+  height: 180px;
+  background-size: 148px 180px;
+  background-repeat: no-repeat;
+  background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/ecg/ecg_heart-rate__b5x0f4hm3cuu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .section-health .watchos_apps_health_ecg_ecg_heart-rate {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/ecg/ecg_heart-rate__b5x0f4hm3cuu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-health .watchos_apps_health_ecg_ecg_heart-rate {
+    width: 136px;
+    height: 166px;
+    background-size: 136px 166px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/ecg/ecg_heart-rate__b5x0f4hm3cuu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-health .watchos_apps_health_ecg_ecg_heart-rate {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/ecg/ecg_heart-rate__b5x0f4hm3cuu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .section-health .watchos_apps_health_ecg_ecg_heart-rate {
+    width: 102px;
+    height: 124px;
+    background-size: 102px 124px;
+    background-repeat: no-repeat;
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/ecg/ecg_heart-rate__b5x0f4hm3cuu_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-health .watchos_apps_health_ecg_ecg_heart-rate {
+    background-image: url("/in/apple-watch-series-5/images/watchos/apps/health/ecg/ecg_heart-rate__b5x0f4hm3cuu_small_2x.jpg");
+  }
+}

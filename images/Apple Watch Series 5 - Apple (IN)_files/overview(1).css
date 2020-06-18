@@ -1,0 +1,240 @@
+/* prep GP */
+
+.page-connect
+  .section-compare.series-5
+  .compare-flex-two-up.series-5
+  .s5-compare-item-series-5
+  .compare-item-image {
+  width: 432px;
+  height: 520px;
+  background-size: 432px 520px;
+  background-repeat: no-repeat;
+  background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-connect
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-connect
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    width: 314px;
+    height: 380px;
+    background-size: 314px 380px;
+    background-repeat: no-repeat;
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-connect
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-connect
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-3-series-5
+    .compare-item-image {
+    padding-bottom: 75%;
+    background-repeat: no-repeat;
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5s3__ciavckprsno2_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-connect
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-3-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5s3__ciavckprsno2_small_2x.jpg");
+  }
+}
+
+.image-compare-hero-series-5 {
+  background-image: url("/in/watch/compare/images/overview/hero/compare_hero_series_5__ej37vktpp8cy_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .image-compare-hero-series-5 {
+    background-image: url("/in/watch/compare/images/overview/hero/compare_hero_series_5__ej37vktpp8cy_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .image-compare-hero-series-5 {
+    background-image: url("/in/watch/compare/images/overview/hero/compare_hero_series_5__ej37vktpp8cy_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-compare-hero-series-5 {
+    background-image: url("/in/watch/compare/images/overview/hero/compare_hero_series_5__ej37vktpp8cy_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .image-compare-hero-series-5 {
+    background-image: url("/in/watch/compare/images/overview/hero/compare_hero_series_5__ej37vktpp8cy_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .image-compare-hero-series-5 {
+    background-image: url("/in/watch/compare/images/overview/hero/compare_hero_series_5__ej37vktpp8cy_small_2x.jpg");
+  }
+}
+
+.page-design
+  .section-compare.series-5
+  .compare-flex-two-up.series-5
+  .s5-compare-item-series-5
+  .compare-item-image {
+  width: 432px;
+  height: 520px;
+  background-size: 432px 520px;
+  background-repeat: no-repeat;
+  background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .page-design
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_large_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .page-design
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    width: 314px;
+    height: 380px;
+    background-size: 314px 380px;
+    background-repeat: no-repeat;
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_medium.jpg");
+  }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .page-design
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5__b441wvjpjliu_medium_2x.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .page-design
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-3-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5s3__ciavckprsno2_small.jpg");
+  }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+  only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .page-design
+    .section-compare.series-5
+    .compare-flex-two-up.series-5
+    .s5-compare-item-series-3-series-5
+    .compare-item-image {
+    background-image: url("/in/watch/shared/compare/images/series-5/compare-s5s3__ciavckprsno2_small_2x.jpg");
+  }
+}
+
+/* compare grid 3x3 */
+
+@media only screen and (min-width: 734px) {
+  .section-compare-grid {
+    grid-template-columns:
+      minmax(30px, 1fr) minmax(154px, 154px) minmax(2em, 1fr)
+      minmax(154px, 154px) minmax(2em, 1fr) minmax(154px, 154px) minmax(2em, 1fr);
+    max-width: 780px;
+  }
+}
+
+.image-allmodels-watch-series-4 {
+  background-image: url("/in/watch/compare/images/overview/modal/all_models_s4__e5ge3fvouhsi_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .image-allmodels-watch-series-4 {
+    background-image: url("/in/watch/compare/images/overview/modal/all_models_s4__e5ge3fvouhsi_large_2x.jpg");
+  }
+}
+
+.image-allmodels-watch-series-3 {
+  background-image: url("/in/watch/compare/images/overview/modal/all_models_s3__b9luct4xjc5e_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .image-allmodels-watch-series-3 {
+    background-image: url("/in/watch/compare/images/overview/modal/all_models_s3__b9luct4xjc5e_large_2x.jpg");
+  }
+}
+
+.image-allmodels-watch-series-1 {
+  background-image: url("/in/watch/compare/images/overview/modal/all_models_s1__px1fwsc3mcyu_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (min-resolution: 1.5dppx),
+  (-webkit-min-device-pixel-ratio: 1.5),
+  (min-resolution: 144dpi) {
+  .image-allmodels-watch-series-1 {
+    background-image: url("/in/watch/compare/images/overview/modal/all_models_s1__px1fwsc3mcyu_large_2x.jpg");
+  }
+}
